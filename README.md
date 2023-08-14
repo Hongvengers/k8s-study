@@ -18,7 +18,7 @@ Kubernetes란 조타수(helmsman)를 뜻하는 그리스어에서 유래되었�
 
 - Structure of k8s
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e876f0c7-cf47-43a5-ac85-20d5bb830b12/Untitled.png)
+![image](https://github.com/Hongvengers/k8s-study/assets/66003338/3b85150c-aef5-4a98-b55c-0445132ec2a6)
 
 쿠버네티스를 배포하게되면 쿠버네티스의 리소스를 관리할 수 있는 머신들의 집합인 쿠버네티스 클러스터(k8s cluster)를 얻는다.<br>
 쿠버네티스 클러스터의 구성에는 크게 Control Plane과 Node 두 개의 구성요소로 나뉘어진다.<br>
